@@ -1,8 +1,10 @@
-# dark_mode
+# Nuromorph_Darkmode&Lightmode
 
 A new Flutter project.
+In this Project 
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
