@@ -1,7 +1,7 @@
 # Nuromorph_Darkmode&Lightmode
 
 A new Flutter project.
-In this Project 
+In this Project, I did the a neuromorphic design with light and dark mode 
 
 ## Getting Started
 
